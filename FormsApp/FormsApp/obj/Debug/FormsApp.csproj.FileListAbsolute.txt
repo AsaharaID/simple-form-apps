@@ -1,0 +1,9 @@
+C:\Users\rezam\Documents\Coding\VisualStudio\projek\FormsApp\FormsApp\bin\Debug\FormsApp.exe.config
+C:\Users\rezam\Documents\Coding\VisualStudio\projek\FormsApp\FormsApp\bin\Debug\FormsApp.exe
+C:\Users\rezam\Documents\Coding\VisualStudio\projek\FormsApp\FormsApp\bin\Debug\FormsApp.pdb
+C:\Users\rezam\Documents\Coding\VisualStudio\projek\FormsApp\FormsApp\obj\Debug\FormsApp.Form1.resources
+C:\Users\rezam\Documents\Coding\VisualStudio\projek\FormsApp\FormsApp\obj\Debug\FormsApp.Properties.Resources.resources
+C:\Users\rezam\Documents\Coding\VisualStudio\projek\FormsApp\FormsApp\obj\Debug\FormsApp.csproj.GenerateResource.cache
+C:\Users\rezam\Documents\Coding\VisualStudio\projek\FormsApp\FormsApp\obj\Debug\FormsApp.csproj.CoreCompileInputs.cache
+C:\Users\rezam\Documents\Coding\VisualStudio\projek\FormsApp\FormsApp\obj\Debug\FormsApp.exe
+C:\Users\rezam\Documents\Coding\VisualStudio\projek\FormsApp\FormsApp\obj\Debug\FormsApp.pdb
